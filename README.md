@@ -1,2 +1,2 @@
 # Password-Generator
-I have Create a Password Generator using HTML CSS and JavaScript
+I have Create a Password Generator website using HTML CSS and JavaScript
